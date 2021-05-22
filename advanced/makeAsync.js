@@ -1,7 +1,9 @@
 //Write a function that will make any function now accept a callback and operate async
 
 function makeAsync() {
-  
+  // return a callback
+  () => callback
+
 }
 
 const generateNumLessThanTen = () => {

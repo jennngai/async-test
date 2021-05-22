@@ -4,4 +4,9 @@ const waitOneSecond = (callback) => {
   }, 1000)
 }
 
+// waitOneSecond invokes a callback after 1 second
+
+// input: callback
+// output: none
+
 module.exports = waitOneSecond;
